@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def root():
-    return "Hello from Cloud Run CD_Test"
+    return "Hello from Cloud Run CD_Test2"
